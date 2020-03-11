@@ -1,13 +1,12 @@
 ---
 banner:
-  title: Hi! We are <br> OwlSec <br> Technologies
+  title: We are<br>OwlSec Technologies
 about:
   enable: true
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-    tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-    nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
-    Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu
-    fugiat nulla pariatur.
+  content: OwlSec is a fast paced I.T and Cybersecurity service & solution company
+    with a dedicated and passionate team. We deliver professional services, merge
+    imagination and technology to help brands grow in this age of digital transformation.
+    Make The Shift From Now to Next!
   button:
     enable: true
     label: know more
@@ -64,16 +63,11 @@ service:
   enable: true
   title: Services
   item:
-  - title: UI Design
+  - title: Graphics/UI/UX Design
     icon: ti-palette
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
       tempor incididunt ut labore et dolore magna aliqua.
     highlighted: false
-  - title: UX Design
-    icon: ti-vector
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
-    highlighted: true
   - title: Interaction Design
     icon: ti-panel
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
