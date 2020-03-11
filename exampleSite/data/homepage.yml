@@ -67,13 +67,17 @@ service:
     icon: ti-world
     content: ''
     highlighted: true
+  - title: Graphics/UI/UX Design
+    icon: ti-palette
+    highlighted: false
   - title: Cyber Security Consultation & Penetration Testing
     icon: ti-shield
     content: ''
     highlighted: true
-  - title: Graphics/UI/UX Design
-    icon: ti-palette
-    highlighted: false
+  - title: Open Source Intelligence(OSINT)
+    icon: ti-search
+    content: ''
+    highlighted: ''
 portfolio:
   enable: true
   title: Portfolio
