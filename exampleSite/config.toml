@@ -1,4 +1,4 @@
-baseURL = "https://flamboyant-kirch-664d53.netlify.com/"
+baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
