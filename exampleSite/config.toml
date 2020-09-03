@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Kross | Hugo Portfolio Template"
+title = "OwlSec Technologies"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -20,19 +20,19 @@ URL = "contact"
 name = "Contact"
 weight = 5
 [params]
-address = "125/A, CA Commercial Area, California, USA"
-author = "Johnathan Smith"
-copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
-description = "This is meta description"
-email = "steve.fruits@email.com"
+address = "Nairobi, Kenya"
+author = "OwlSec Technologies"
+copyright = "Copyrighht &copy; 2020 [OwlSec Technologies](https://krossowlsec.netlify.app/)"
+description = "OwlSec Technologies is a strategic I.T and Cybersecurity agency based in Nairobi, Kenya"
+email = "info@owlsectechnologies.co.ke"
 google_analitycs_id = ""
 home = "Home"
 logo = "images/logo.png"
-phone = "+880 2544 658 256"
+phone = "+254 740 128 010"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "#"
+form_action = "data-netlify=\"true\""
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
@@ -51,14 +51,11 @@ URL = "plugins/shuffle/shuffle.min.js"
 enable = true
 preloader = ""
 [[params.social]]
-URL = "#"
+URL = "https://www.facebook.com/owlsectech/"
 icon = "ti-facebook"
 [[params.social]]
-URL = "#"
+URL = "https://www.instagram.com/owlsectech/?hl=en"
 icon = "ti-instagram"
 [[params.social]]
-URL = "#"
-icon = "ti-dribbble"
-[[params.social]]
-URL = "#"
+URL = "https://twitter.com/owlsectech"
 icon = "ti-twitter-alt"
