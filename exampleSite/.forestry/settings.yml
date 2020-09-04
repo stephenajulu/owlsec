@@ -17,6 +17,13 @@ sections:
   templates:
   - post
 - type: directory
+  path: exampleSite/content/pages
+  label: Page
+  create: documents
+  match: "*"
+  templates:
+  - page
+- type: directory
   path: exampleSite/content/about
   label: About
   create: none
