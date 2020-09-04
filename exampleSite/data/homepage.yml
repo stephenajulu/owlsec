@@ -3,13 +3,15 @@ banner:
   title: We are<br>OwlSec <br> Technologies
 about:
   enable: true
-  content: OwlSec is a fast paced I.T and Cybersecurity service & solution company
-    with a dedicated and passionate team. We deliver professional services, merge
-    imagination and technology to help brands grow in this age of digital transformation.
-    Make The Shift From Now to Next!
+  content: OwlSec is a fast paced I.T and Cybersecurity Agency with a dedicated and
+    passionate team. We build beautiful digital products, brands and experiences that
+    help you create, grow and foster connections with your customers and end-users.
+    We deliver professional services, merge imagination and technology to help your
+    brand grow in this age of digital transformation. Make The Shift From Now to Next
+    with OwlSec Technologies!
   button:
     enable: true
-    label: know more
+    label: Learn More
     URL: about
 skill:
   enable: false
