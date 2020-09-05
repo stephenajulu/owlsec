@@ -3,16 +3,14 @@ banner:
   title: Welcome to <br> <span style="color:#0286C5;"> &nbsp; &nbsp; OwlSec Technologies</span>
 about:
   enable: true
-  content: OwlSec is a fast paced I.T and Cybersecurity Agency with a dedicated and
-    passionate team. We build beautiful digital products, brands and experiences that
-    help you create, grow and foster connections with your customers and end-users.
-    We deliver professional services, merge imagination and technology to help your
-    brand grow in this age of digital transformation. <br> <em>Make The Shift From
-    Now to Next with OwlSec Technologies!</em>
+  content: |-
+    OwlSec is a fast paced I.T and Cybersecurity Agency with a dedicated and passionate team. We build beautiful digital products, brands and experiences that help you create, grow and foster connections with your customers and end-users. We deliver professional services, merge imagination and technology to help your brand grow in this age of digital transformation.
+
+    We help businesses grow by getting more of the customers they want and by helping them make the shift from now to next!
   button:
     enable: true
-    label: Learn More
-    URL: about
+    label: Let Us Work Together
+    URL: contact us
 skill:
   enable: false
   title: Skills
