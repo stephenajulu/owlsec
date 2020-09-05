@@ -68,7 +68,8 @@ service:
   - title: Web Development & Design
     icon: ti-world
     content: Fast, bespoke websites designed for what your business needs, fine-tuned
-      to convert your visitors into customers and clients.
+      to convert your visitors into customers and clients. A strong web presence attracts
+      your target visitors and turns them into your new customers.
     highlighted: true
   - title: Graphics/UI/UX Design
     icon: ti-palette
