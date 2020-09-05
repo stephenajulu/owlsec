@@ -80,6 +80,10 @@ service:
   - title: Startegic Consultation
     icon: ti-info-alt
     content: Inculdes I.T, Web and Cybersecurity Strategic Planning and more
+    highlighted: false
+  - title: ''
+    icon: ''
+    content: ''
     highlighted: ''
 portfolio:
   enable: true
