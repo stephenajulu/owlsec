@@ -83,7 +83,8 @@ service:
     highlighted: false
   - title: Digital Marketing
     icon: ti-comments-smiley
-    content: ''
+    content: Is made up of Digital Advertising, Online Brand Popularity Growth and
+      Marketing
     highlighted: true
 portfolio:
   enable: true
