@@ -90,6 +90,14 @@ service:
     content: ''
     highlighted: ''
     icon: ti-hummer
+  - icon: ti-package
+    content: ''
+    highlighted: true
+    title: I.C.T Equipment and Software Supply
+  - content: ''
+    highlighted: ''
+    title: Cyber Risk Management Planning
+    icon: ti-shield
 portfolio:
   enable: true
   title: Portfolio
