@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "OwlSec Technologies | I.T and Cybersecurity Agency | Brand Development"
+title = "OwlSec Technologies | I.T and Cybersecurity Service Agency"
 [[menu.main]]
 URL = "about"
 name = "About"
