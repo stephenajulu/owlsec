@@ -22,7 +22,7 @@ weight = 5
 [params]
 address = "Nairobi, Kenya"
 author = "OwlSec Technologies"
-copyright = "Copyrighht &copy; 2020 [OwlSec Technologies](https://krossowlsec.netlify.app/)"
+copyright = "Copyright &copy; 2020 [OwlSec Technologies](https://krossowlsec.netlify.app/)"
 description = "OwlSec Technologies is an I.T agency based in Nairobi, Kenya. We provide Comprehensive Web Development, Graphic Design, Strategic Consultation, I.T Supplies, Digital Marketing, Brand Development, Digital Marketing, Web App/Site Testing and Optimization. Contact us: info@owlsectechnologies.co.ke."
 email = "info@owlsectechnologies.co.ke"
 google_analitycs_id = ""
