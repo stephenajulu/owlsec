@@ -63,7 +63,7 @@ education:
     academy: Cardiff School
 service:
   enable: true
-  title: Services
+  title: Our Services
   item:
   - title: Web Development & Design
     icon: ti-world
