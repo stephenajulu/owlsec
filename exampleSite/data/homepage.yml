@@ -74,8 +74,13 @@ service:
     highlighted: false
   - title: Web App/Site Testing and Optimization
     icon: ti-panel
-    content: ''
+    content: Includes testing and optimization of Search Ranking, Performance, Accessability,
+      Design and other. It is a bundle.
     highlighted: true
+  - title: ''
+    icon: ''
+    content: ''
+    highlighted: ''
 portfolio:
   enable: true
   title: Portfolio
