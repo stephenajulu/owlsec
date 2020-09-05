@@ -84,7 +84,7 @@ service:
   - title: Digital Marketing
     icon: ti-comments-smiley
     content: ''
-    highlighted: ''
+    highlighted: true
 portfolio:
   enable: true
   title: Portfolio
