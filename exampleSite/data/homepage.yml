@@ -75,7 +75,7 @@ service:
   - title: Web App/Site Testing and Optimization
     icon: ti-panel
     content: ''
-    highlighted: false
+    highlighted: true
 portfolio:
   enable: true
   title: Portfolio
