@@ -81,8 +81,8 @@ service:
     icon: ti-info-alt
     content: Inculdes I.T, Web and Cybersecurity Strategic Planning and more
     highlighted: false
-  - title: ''
-    icon: ''
+  - title: Digital Marketing
+    icon: ti-comments-smiley
     content: ''
     highlighted: ''
 portfolio:
