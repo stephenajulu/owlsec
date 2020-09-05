@@ -108,7 +108,7 @@ service:
     content: ''
     highlighted: ''
   - content: ''
-    highlighted: ''
+    highlighted: true
     title: Cyber Risk Management Planning
     icon: ti-shield
 portfolio:
