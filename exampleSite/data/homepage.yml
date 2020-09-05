@@ -77,9 +77,9 @@ service:
     content: Includes testing and optimization of Search Ranking, Performance, Accessability,
       Design and other. It is a bundle.
     highlighted: true
-  - title: ''
-    icon: ''
-    content: ''
+  - title: Startegic Consultation
+    icon: ti-info-alt
+    content: Inculdes I.T, Web and Cybersecurity Strategic Planning and more
     highlighted: ''
 portfolio:
   enable: true
