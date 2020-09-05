@@ -88,8 +88,9 @@ service:
     highlighted: false
   - title: Digital Marketing
     icon: ti-comments-smiley
-    content: Is made up of Digital Advertising, Online Brand Popularity Growth and
-      Marketing
+    content: SEO and Adwords/PPC campaigns, content creation, social media and paid
+      social advertising. We’ll find you the ideal marketing mix to get you the best
+      ROI. Is made up of Digital Advertising, Online Brand Popularity Growth and Marketing
     highlighted: true
   - title: Brand Development and Design
     content: From brand identity design to marketing collateral rollout.Because we
