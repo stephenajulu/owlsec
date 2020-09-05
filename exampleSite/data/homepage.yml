@@ -112,7 +112,7 @@ service:
     icon: ti-shield
 portfolio:
   enable: true
-  title: Portfolio
+  title: Our Portfolio
   item_show: "5"
 testimonial:
   enable: true
