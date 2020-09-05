@@ -86,6 +86,10 @@ service:
     content: Is made up of Digital Advertising, Online Brand Popularity Growth and
       Marketing
     highlighted: true
+  - title: Brand Development and Design
+    content: ''
+    highlighted: ''
+    icon: ti-hummer
 portfolio:
   enable: true
   title: Portfolio
