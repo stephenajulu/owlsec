@@ -92,8 +92,10 @@ service:
       Marketing
     highlighted: true
   - title: Brand Development and Design
-    content: A strong brand identity gets you more of the type of business you want,
-      at the price you want to charge.
+    content: From brand identity design to marketing collateral rollout.Because we
+      pay attention to detail, your brand identity works harder for longer. A strong
+      brand identity gets you more of the type of business you want, at the price
+      you want to charge.
     highlighted: ''
     icon: ti-hummer
   - icon: ti-package
