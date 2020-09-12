@@ -14,3 +14,5 @@ fields:
 - type: text
   name: description
   label: description
+pages:
+- exampleSite/content/blog/5-compelling-reasons-why-you-should-hire-a-web-firm.md
