@@ -19,15 +19,18 @@ team:
   enable: true
   title: Our Team
   team_member:
-  - title: Jack Schenziwe
-    image: images/team/member-1.png
-    designation: Project Manager
-  - title: Julias Carlie
-    image: images/team/member-2.png
-    designation: Web Developer
-  - title: John Doe
-    image: images/team/member-3.png
-    designation: Designer
+  - title: Stephen Ajulu
+    image: images/team/stephenajulu.jpg
+    designation: Front End Web Developer and Consultant
+  - title: Isaac Ryan Onyango
+    image: images/team/isaacryan.jpg
+    designation: Graphic Design
+  - title: Edwin Syeunda Musau
+    image: images/team/edwinmusau.jpg
+    designation: Web Developer and Graphic Designer
+  - title: Mitchell Mayieka Kinara
+    image: images/team/mitchellkinara.png
+    designation: Animator
 clients_logo_slider:
   enable: true
   title: Our Clients
