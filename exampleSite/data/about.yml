@@ -5,16 +5,17 @@ work_process:
   item:
   - title: Research and Plan
     icon: images/icons/plan.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: We conduct research based on your work specifications then plan out the
+      work.
   - title: Design and Develop
     icon: images/icons/design.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: After Research and Planning, we then develop/create/design the product/service
+      in regard to your specifications while also adding features that may improve
+      the project.
   - title: Deliver
     icon: images/icons/print.png
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut labore et dolore magna aliqua.
+    content: After Designing and Developing, we deliver the desired product/service
+      to the client, with instructions how to configure/operate the product/service
 team:
   enable: true
   title: Our Team
