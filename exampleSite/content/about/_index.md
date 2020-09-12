@@ -4,7 +4,7 @@ date: 2019-05-12T12:14:34.000+06:00
 description: Learn More about OwlSec Technologies. Our journey, our mission, our vision,
   our team and more.
 author_image: images/team/stephenajulu.jpg
-author_signature: images/about/signature.png
+author_signature: images/signature.png
 
 ---
 ### Who are we?
