@@ -7,6 +7,18 @@ author_image: images/about/author.jpg
 author_signature: images/about/signature.png
 
 ---
+### Who are we?
+
+We’re a deliberately small team of dedicated designers, developers and marketers who love solving our clients’ problems and helping them achieve their goals.
+
+### Who do we work with?
+
+We help ambitious businesses get more of the customers they want.
+
+Our clients are usually very good at what they do and want to grow their business, but don’t know how to go about it.
+
+### Our journey, what we offer and more
+
 OwlSec Technologies was founded back in 2018. We recognized a gap in the Information Technology and Cybersecurity industry, and sought to fill it with custom designed solutions to meet our clients’ needs. Since our inception, our goal has been to provide top notch Cybersecurity and I.T solutions that help clients achieve their objectives, boost efficiency, security and reputation. We have worked with several governments institutions and SMEs’.
 
 OwlSec delivers professional Web Development, Graphics/UI/UX Design, IT, Cybersecurity consulting services(focusing on offensive, information gathering and defensive aspects) and more.
@@ -17,16 +29,12 @@ OwlSec delivers professional Web Development, Graphics/UI/UX Design, IT, Cyberse
 
 **Motto: “To Help Our Clients Make The Shift From Now to Next with OwlSec”**
 
-## FAQ
-
-**Q:** **Why did we choose an Owl?**
-
-**A:** The owl represents the deep connection that we dream of with wisdom, good judgment, and knowledge. Like the owl, which is known for its sharp vision and keen observation, we believe we require insight and intuition, in order to best serve you. Let’s not forget the ability to see what’s usually hidden to most e.g threats to your organization, blind spots in CCTV cameras, website design flaws etc.
+### FAQ
 
 **Q: Why the name, OwlSec Technologies?**
 
 **A:** We saw that since the owl represents the company’s beliefs and ideologies.  
- Why not use the name, however Owl Securities and Owl Technologies were already taken so we combined Owl the “night eagle”, Sec for Cyber Security and Technologies for Information Communication Technology. To form OwlSec Technologies, a combination that reveals our beliefs, ideologies, goals, objectives, services and our love for knowledge and information security.
+Why not use the name, however Owl Securities and Owl Technologies were already taken so we combined Owl the “night eagle”, Sec for Cyber Security and Technologies for Information Communication Technology. To form OwlSec Technologies, a combination that reveals our beliefs, ideologies, goals, objectives, services and our love for knowledge and information security.
 
 **Q: What services do you offer?**
 
@@ -51,16 +59,4 @@ OwlSec delivers professional Web Development, Graphics/UI/UX Design, IT, Cyberse
 
 **Q: How big is our team?**
 
-**A:** Well, OwlSec is made up of 7 people. Stephen Ajulu, The C.E.O, John Peter, The Cyber Security Consultant and Max Vingate Omondi, The Full Stack Web Developer next door.
-
-## Ready to get started?
-
-You can trust us with your website, your company and we promise to use the latest and most advanced technologies to build your business.
-
-![](https://d33wubrfki0l68.cloudfront.net/4b8707a4bb514ec2268ef3943e0c6b7d0892621a/2a7fd/images/jamstack.png)
-
-![](https://d33wubrfki0l68.cloudfront.net/a0f652101f987ef42782f40c285ea98409b4d724/0a245/images/website-softwares-1024x87.png)
-
-### Who are we?
-
-We are a team of dedicated and passionate geeks who lead in their respective industries.
+**A:** Well, OwlSec is made up of 5 dedicated people.
