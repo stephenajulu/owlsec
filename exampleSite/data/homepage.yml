@@ -111,11 +111,11 @@ service:
     title: Cyber Risk Management Planning
     icon: ti-shield
 portfolio:
-  enable: true
+  enable: false
   title: Our Portfolio
   item_show: "5"
 testimonial:
-  enable: true
+  enable: false
   title: Testimonials
   item:
   - name: Jesica Gomez
